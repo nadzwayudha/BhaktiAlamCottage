@@ -11,7 +11,6 @@ public class BhaktiAlamCottage {
         System.out.println("Jambu Air : 575000 695000 895000");
         System.out.println("Durian : 595000 715000 915000");
         System.out.println("Melon : 595000 715000 915000");
-        System.out.println("Melon : 595000 715000 915000");
         System.out.println("Belimbing : 495000 575000 755000");
         System.out.println("Mangga : 495000 575000 755000");
         System.out.println("Kedondong : 495000 575000 755000");
